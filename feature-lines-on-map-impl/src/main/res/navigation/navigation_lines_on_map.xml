@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_lines_on_map"
+    app:startDestination="@id/linesOnMap">
+
+    <fragment
+        android:id="@+id/linesOnMap"
+        android:name="com.example.interviewassignments.feature.linesonmap.presentation.LinesOnMapFragment"
+        android:label="LinesOnMapFragment"
+        tools:layout="@layout/lines_on_map_fragment" />
+
+</navigation>
