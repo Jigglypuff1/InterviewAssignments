@@ -16,3 +16,5 @@ Interview assignments
 
 Задание реализовано в модуле "feature-lines-on-map-impl"
 
+<img src="images/lines-on-map.jpg" width="500">
+
